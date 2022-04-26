@@ -1,4 +1,9 @@
 
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ar77&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ar77" /> </p>
