@@ -1,80 +1,32 @@
-## Hi There. I'm Ahmed <img src="https://raw.githubusercontent.com/salahineo/salahineo/main/assets/img/github/Hi.gif" width="30px">
 
-### :man_technologist: About Me
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ar77&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ar77" /> </p>
 
-- 🎓 &nbsp; I have studied **Computer Science** which provided me with some outstanding and technical skills.
-- 🌱 &nbsp; I hope to be a successful **Full-Stack Web Developer**.
-- 💼 &nbsp; I consider myself equipped with **Most** of web development skills, but I know I **Still** need to learn a lot more.
-- 🤔 &nbsp; I always like to learn and explore everything about **Web Development** technologies.
-- ⚡ &nbsp; Fact: The **Expert** in Anything was Once a **Beginner**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-ar77" alt="ahmed-ar77" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### :chart_with_downwards_trend: Roadmap
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-#### I have **learned**: 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<div>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222222"/>
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-Pug%20JS-A86454?style=flat&logo=pug&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-React%20JS-61DAFB?style=flat&logo=react&logoColor=222222"/>
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff"/>
-</div>
-  
-#### I'm currently **learning**:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-ar77&show_icons=true&locale=en&layout=compact" alt="ahmed-ar77" /></p>
 
-<div>
-  <img src="https://img.shields.io/badge/-Next%20JS-000000?style=flat&logo=nextdotjs&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-Webpack-101619?style=flat&logo=webpack&logoColor=8DD6F9"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff"/>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ar77&show_icons=true&locale=en" alt="ahmed-ar77" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ar77&" alt="ahmed-ar77" /></p>
 
 
-#### I **intend to** learn: 
 
-<div>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-Node%20JS-339933?style=flat&logo=nodedotjs&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff"/>
-</div>
 
-#### Additional **skills**:
 
-<div>
-  <img src="https://img.shields.io/badge/-Gulp--JS-CF4647?style=flat&logo=gulp&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-Command--Line-4D4D4D?style=flat&logo=windows-terminal&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=222222"/>
-</div>
 
----
 
-### :trophy: Github Stats
-
-![Salahineo's Github Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-AR77&include_all_commits=true&hide=contribs,prs&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
-
-![Salahineo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salahineo&hide=HTML&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)
-
-![Salahineo's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=salahineo&hide_border=true&theme=tokyonight)
-
-### :thinking: Codewars Stats
-
-<a href="https://www.codewars.com/users/salahineo"><img src="https://www.codewars.com/users/salahineo/badges/large"/></a>
-
----
-
-### 📫 Contact
+# --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/salahineo"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff"/></a>
 <a href="https://linkedin.com/in/salahineo"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=ffffff"/></a>
